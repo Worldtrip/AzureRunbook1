@@ -1,0 +1,11 @@
+{
+    "Connection_parameters": {
+      "tenant": "109c6aec-5046-4a95-8f3c-84f63ba18af4",
+      "UserFilter": "startswith(Department,'BMSDC') and accountEnabled eq true",
+      "GroupFilter": "DisplayName eq 'AG_BMSDC_CadCorp_WebMap' or DisplayName eq 'BMSDC All MSDC Employees' or DisplayName eq 'BMSDC All BDC Employees' ",
+      "GroupFilterAZ": "5de3291a-779a-459e-bcf4-573460971216",
+      "User": "brooaj2@suffolk.gov.uk",
+      "Password": "MyPassword",
+      "WebMapDatabase": "c:\\temp\\cadcorp\\webMapLayersConfig.db"
+    }
+  }
